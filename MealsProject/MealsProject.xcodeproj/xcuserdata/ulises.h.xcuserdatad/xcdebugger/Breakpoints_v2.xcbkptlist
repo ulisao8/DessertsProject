@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "07AA33F8-325F-4F1A-9F5C-5EED4ED08E7E"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A808BBC1-D15F-420C-8EAB-CC74172D7831"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MealsProject/ViewModel/DesertsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "fetchDetail(id:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A808BBC1-D15F-420C-8EAB-CC74172D7831 - d1154f3c2e128976"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in MealsProject.RecipeFetcher.fetchDetail(id: Swift.String) -&gt; ()"
+                  moduleName = "MealsProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulises.h/Documents/MealsProject/MealsProject/ViewModel/DesertsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "148">
+               </Location>
+               <Location
+                  uuid = "A808BBC1-D15F-420C-8EAB-CC74172D7831 - d1154f3c2e128abc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in MealsProject.RecipeFetcher.fetchDetail(id: Swift.String) -&gt; ()"
+                  moduleName = "MealsProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulises.h/Documents/MealsProject/MealsProject/ViewModel/DesertsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "A808BBC1-D15F-420C-8EAB-CC74172D7831 - d1154f3c2e128976"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in MealsProject.RecipeFetcher.fetchDetail(id: Swift.String) -&gt; ()"
+                  moduleName = "MealsProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulises.h/Documents/MealsProject/MealsProject/ViewModel/DesertsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "132">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7C0C956D-0143-46F3-9148-A5D6B6E3D6A9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MealsProject/ViewModel/DesertsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "fetchDetail(id:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7C0C956D-0143-46F3-9148-A5D6B6E3D6A9 - 2985231661a397"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MealsProject.RecipeFetcher.fetchDetail(id: Swift.String) -&gt; ()"
+                  moduleName = "MealsProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulises.h/Documents/MealsProject/MealsProject/ViewModel/DesertsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "676">
+               </Location>
+               <Location
+                  uuid = "7C0C956D-0143-46F3-9148-A5D6B6E3D6A9 - 2985231661a2a9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MealsProject.RecipeFetcher.fetchDetail(id: Swift.String) -&gt; ()"
+                  moduleName = "MealsProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulises.h/Documents/MealsProject/MealsProject/ViewModel/DesertsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "700">
+               </Location>
+               <Location
+                  uuid = "7C0C956D-0143-46F3-9148-A5D6B6E3D6A9 - 2985231661a397"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MealsProject.RecipeFetcher.fetchDetail(id: Swift.String) -&gt; ()"
+                  moduleName = "MealsProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulises.h/Documents/MealsProject/MealsProject/ViewModel/DesertsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "700">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4F27B688-637A-4CB0-BA5F-819D1362B250"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MealsProject/ViewModel/DesertsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "fetchDetail(id:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4F27B688-637A-4CB0-BA5F-819D1362B250 - 2985231661a3d5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MealsProject.RecipeFetcher.fetchDetail(id: Swift.String) -&gt; ()"
+                  moduleName = "MealsProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulises.h/Documents/MealsProject/MealsProject/ViewModel/DesertsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "5812">
+               </Location>
+               <Location
+                  uuid = "4F27B688-637A-4CB0-BA5F-819D1362B250 - 2985231661a2ef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MealsProject.RecipeFetcher.fetchDetail(id: Swift.String) -&gt; ()"
+                  moduleName = "MealsProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulises.h/Documents/MealsProject/MealsProject/ViewModel/DesertsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "5844">
+               </Location>
+               <Location
+                  uuid = "4F27B688-637A-4CB0-BA5F-819D1362B250 - 2985231661a3d5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MealsProject.RecipeFetcher.fetchDetail(id: Swift.String) -&gt; ()"
+                  moduleName = "MealsProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulises.h/Documents/MealsProject/MealsProject/ViewModel/DesertsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "5844">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BC3C5B38-19C8-4CAE-9F55-F4F78B03271D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MealsProject/ViewModel/DesertsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "fetchDetail(id:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BC3C5B38-19C8-4CAE-9F55-F4F78B03271D - 29852316665d02"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MealsProject.RecipeFetcher.fetchDetail(id: Swift.String) -&gt; ()"
+                  moduleName = "MealsProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulises.h/Documents/MealsProject/MealsProject/ViewModel/DesertsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "6428">
+               </Location>
+               <Location
+                  uuid = "BC3C5B38-19C8-4CAE-9F55-F4F78B03271D - 29852316665dc4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MealsProject.RecipeFetcher.fetchDetail(id: Swift.String) -&gt; ()"
+                  moduleName = "MealsProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulises.h/Documents/MealsProject/MealsProject/ViewModel/DesertsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "6508">
+               </Location>
+               <Location
+                  uuid = "BC3C5B38-19C8-4CAE-9F55-F4F78B03271D - 29852316665d02"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MealsProject.RecipeFetcher.fetchDetail(id: Swift.String) -&gt; ()"
+                  moduleName = "MealsProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ulises.h/Documents/MealsProject/MealsProject/ViewModel/DesertsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "6508">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
